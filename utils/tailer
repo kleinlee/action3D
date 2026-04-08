@@ -1,0 +1,11 @@
+;Takes section
+;----------------------------------------------------
+
+Takes:  {
+	Current: "Take 001"
+	Take: "Take 001" {
+		FileName: "Take_001.tak"
+		LocalTime: 0,15395386000
+		ReferenceTime: 0,15395386000
+	}
+}

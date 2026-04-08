@@ -1,0 +1,7 @@
+output_videos/*
+output_videos2/*
+idle_pose/*
+final_animation/*
+.idea/
+__pycache__/
+*.pyc

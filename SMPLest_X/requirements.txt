@@ -1,0 +1,13 @@
+numpy
+smplx
+tqdm
+opencv-python
+chumpy
+trimesh
+pyrender
+matplotlib
+json_tricks
+einops
+timm
+ultralytics
+pyopengl
