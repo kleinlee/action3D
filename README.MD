@@ -4,7 +4,7 @@
 本项目包含视频动作捕捉、动作文件规范化及pyrender渲染演示、FBX动作加工。方便大家自主设计数字人动作。保留了AI生成粗略动作的高效和人工干预的精细度，提供了业界规范的处理流程。半天时间即可完成一套20+动作的数字人制作。
 
 本项目已去除复杂依赖，对Python版本和PyTorch无严格要求。
-
+- 展示及讲解视频在 Bilibili 上
 ## 未来计划
 - 在3D高斯喷溅模型上应用动作
 - 更多动作库，包括男女、舞蹈
@@ -16,12 +16,6 @@
    - 下载 SMPLX 相关文件 `human_model_files` 并放置到 `human_models/human_model_files` 目录：
      - 官方下载：[SMPL-X](https://smpl-x.is.tue.mpg.de/) 和 [SMPL](https://smpl.is.tue.mpg.de/) 身体模型
      - 国内镜像：[ModelScope](https://www.modelscope.cn/models/Damo_XR_Lab/LHMPP-Prior/tree/master/human_model_files)
-
-2. **下载动作文件**
-   - 在项目 release 页面下载 `pose.zip`，内部含有18个动作文件及相关处理结果
-
-3. **相关资源**
-   - 展示及讲解视频在 Bilibili 上
 
 ## 使用步骤
 
